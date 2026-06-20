@@ -1,0 +1,224 @@
+{
+  "block_all_via_star": 71757,
+  "block_all_via_star_pct_all": 7.19,
+  "block_at_least_one_ai": 93155,
+  "block_at_least_one_ai_pct_all": 9.33,
+  "block_at_least_one_ai_pct_robots": 14.8,
+  "by_bot": [
+    {
+      "Bot": "GPTBot (OpenAI)",
+      "UA": "gptbot",
+      "FullyBlocked": 73841,
+      "Named": 88968,
+      "FullyBlockedPctAll": 7.4,
+      "FullyBlockedPctRobots": 11.73,
+      "NamedPctAll": 8.91
+    },
+    {
+      "Bot": "CCBot (Common Crawl)",
+      "UA": "ccbot",
+      "FullyBlocked": 72159,
+      "Named": 124834,
+      "FullyBlockedPctAll": 7.23,
+      "FullyBlockedPctRobots": 11.46,
+      "NamedPctAll": 12.5
+    },
+    {
+      "Bot": "Bytespider (ByteDance)",
+      "UA": "bytespider",
+      "FullyBlocked": 67608,
+      "Named": 117917,
+      "FullyBlockedPctAll": 6.77,
+      "FullyBlockedPctRobots": 10.74,
+      "NamedPctAll": 11.81
+    },
+    {
+      "Bot": "ClaudeBot (Anthropic)",
+      "UA": "claudebot",
+      "FullyBlocked": 66847,
+      "Named": 79345,
+      "FullyBlockedPctAll": 6.69,
+      "FullyBlockedPctRobots": 10.62,
+      "NamedPctAll": 7.95
+    },
+    {
+      "Bot": "Amazonbot",
+      "UA": "amazonbot",
+      "FullyBlocked": 65893,
+      "Named": 72948,
+      "FullyBlockedPctAll": 6.6,
+      "FullyBlockedPctRobots": 10.47,
+      "NamedPctAll": 7.31
+    },
+    {
+      "Bot": "Google-Extended",
+      "UA": "google-extended",
+      "FullyBlocked": 62707,
+      "Named": 73934,
+      "FullyBlockedPctAll": 6.28,
+      "FullyBlockedPctRobots": 9.96,
+      "NamedPctAll": 7.4
+    },
+    {
+      "Bot": "Meta-ExternalAgent",
+      "UA": "meta-externalagent",
+      "FullyBlocked": 60159,
+      "Named": 69507,
+      "FullyBlockedPctAll": 6.02,
+      "FullyBlockedPctRobots": 9.56,
+      "NamedPctAll": 6.96
+    },
+    {
+      "Bot": "Applebot-Extended",
+      "UA": "applebot-extended",
+      "FullyBlocked": 59193,
+      "Named": 65288,
+      "FullyBlockedPctAll": 5.93,
+      "FullyBlockedPctRobots": 9.4,
+      "NamedPctAll": 6.54
+    },
+    {
+      "Bot": "PetalBot",
+      "UA": "petalbot",
+      "FullyBlocked": 16123,
+      "Named": 64634,
+      "FullyBlockedPctAll": 1.61,
+      "FullyBlockedPctRobots": 2.56,
+      "NamedPctAll": 6.47
+    },
+    {
+      "Bot": "ChatGPT-User",
+      "UA": "chatgpt-user",
+      "FullyBlocked": 15848,
+      "Named": 27029,
+      "FullyBlockedPctAll": 1.59,
+      "FullyBlockedPctRobots": 2.52,
+      "NamedPctAll": 2.71
+    },
+    {
+      "Bot": "anthropic-ai",
+      "UA": "anthropic-ai",
+      "FullyBlocked": 15093,
+      "Named": 22280,
+      "FullyBlockedPctAll": 1.51,
+      "FullyBlockedPctRobots": 2.4,
+      "NamedPctAll": 2.23
+    },
+    {
+      "Bot": "PerplexityBot",
+      "UA": "perplexitybot",
+      "FullyBlocked": 12845,
+      "Named": 24847,
+      "FullyBlockedPctAll": 1.29,
+      "FullyBlockedPctRobots": 2.04,
+      "NamedPctAll": 2.49
+    },
+    {
+      "Bot": "cohere-ai",
+      "UA": "cohere-ai",
+      "FullyBlocked": 11780,
+      "Named": 16423,
+      "FullyBlockedPctAll": 1.18,
+      "FullyBlockedPctRobots": 1.87,
+      "NamedPctAll": 1.64
+    },
+    {
+      "Bot": "Claude-Web",
+      "UA": "claude-web",
+      "FullyBlocked": 11774,
+      "Named": 16593,
+      "FullyBlockedPctAll": 1.18,
+      "FullyBlockedPctRobots": 1.87,
+      "NamedPctAll": 1.66
+    },
+    {
+      "Bot": "ImageSiftBot",
+      "UA": "imagesiftbot",
+      "FullyBlocked": 11442,
+      "Named": 13011,
+      "FullyBlockedPctAll": 1.15,
+      "FullyBlockedPctRobots": 1.82,
+      "NamedPctAll": 1.3
+    },
+    {
+      "Bot": "Omgilibot",
+      "UA": "omgilibot",
+      "FullyBlocked": 11267,
+      "Named": 13951,
+      "FullyBlockedPctAll": 1.13,
+      "FullyBlockedPctRobots": 1.79,
+      "NamedPctAll": 1.4
+    },
+    {
+      "Bot": "YouBot",
+      "UA": "youbot",
+      "FullyBlocked": 9647,
+      "Named": 14091,
+      "FullyBlockedPctAll": 0.97,
+      "FullyBlockedPctRobots": 1.53,
+      "NamedPctAll": 1.41
+    },
+    {
+      "Bot": "FacebookBot",
+      "UA": "facebookbot",
+      "FullyBlocked": 9464,
+      "Named": 14741,
+      "FullyBlockedPctAll": 0.95,
+      "FullyBlockedPctRobots": 1.5,
+      "NamedPctAll": 1.48
+    },
+    {
+      "Bot": "Diffbot",
+      "UA": "diffbot",
+      "FullyBlocked": 9220,
+      "Named": 11453,
+      "FullyBlockedPctAll": 0.92,
+      "FullyBlockedPctRobots": 1.46,
+      "NamedPctAll": 1.15
+    },
+    {
+      "Bot": "OAI-SearchBot",
+      "UA": "oai-searchbot",
+      "FullyBlocked": 6757,
+      "Named": 16430,
+      "FullyBlockedPctAll": 0.68,
+      "FullyBlockedPctRobots": 1.07,
+      "NamedPctAll": 1.65
+    }
+  ],
+  "definition": "A site 'fully blocks' a crawler if robots.txt names that user-agent (exact, case-insensitive) in a group with 'Disallow: /'.",
+  "license": "CC BY 4.0",
+  "rank_gradient": [
+    {
+      "band": "1-1000",
+      "block_any_pct_all": 12.9,
+      "block_any_pct_robots": 22.51,
+      "n": 1000
+    },
+    {
+      "band": "1001-10000",
+      "block_any_pct_all": 13.52,
+      "block_any_pct_robots": 20.9,
+      "n": 9000
+    },
+    {
+      "band": "10001-100000",
+      "block_any_pct_all": 10.9,
+      "block_any_pct_robots": 17.07,
+      "n": 90000
+    },
+    {
+      "band": "100001-1000000",
+      "block_any_pct_all": 9.13,
+      "block_any_pct_robots": 14.5,
+      "n": 898497
+    }
+  ],
+  "run_id": "aicrawler-top1m-20260620",
+  "scanned_at": "2026-06-20",
+  "source": "https://crawlora.net/ai-crawler-index",
+  "title": "AI-Crawler Blocking Index",
+  "total_domains": 998497,
+  "with_robots_txt": 629565,
+  "with_robots_txt_pct": 63.05
+}
