@@ -47,5 +47,5 @@ Meta, Amazon, Apple, Perplexity, Cohere and others. **Same domain universe as th
 datasets join on `domain`, so you can ask "does a managed-WAF site also block AI in robots.txt?".
 
 ## License & sources
-**CC BY 4.0.** Interactive explorer: https://crawlora.net/ai-crawler-index · companion studies:
-https://crawlora.net/anti-bot-index , https://crawlora.net/dead-web-index
+**CC BY 4.0.** Interactive explorer: [https://crawlora.net/ai-crawler-index](https://crawlora.net/ai-crawler-index?utm_source=github&utm_medium=referral&utm_campaign=ai-crawler-index) · companion studies:
+[https://crawlora.net/anti-bot-index](https://crawlora.net/anti-bot-index?utm_source=github&utm_medium=referral&utm_campaign=ai-crawler-index) , [https://crawlora.net/dead-web-index](https://crawlora.net/dead-web-index?utm_source=github&utm_medium=referral&utm_campaign=ai-crawler-index)
